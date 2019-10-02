@@ -1,0 +1,27 @@
+print (123 + 222)
+print (1.5 * 4)
+print (2 ** 100)
+print (2 ** 1000000)
+print (len(str(2 ** 1000000)))
+import math
+print (math.pi)
+print (math.sqrt(85))
+import random
+print (random.random())
+print (random.choice([1, 2, 3, 4]))
+S = 'Spam'
+print (len(S))
+print (S[0])
+print (S[1])
+print (S[-1])
+print (S[-2])
+print (S[len(S) - 1])
+print (S[1:3])
+print (S[1:])
+print (S[0:3])
+print (S[:3])
+print (S[:-1])
+print (S[:])
+print (S + 'xyz')
+print (S * 8)
+
